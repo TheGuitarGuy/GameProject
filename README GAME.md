@@ -5,7 +5,7 @@ This was an intense but fun project! I was able to work on this with a friedn wh
 We wanted to try working on a 3d game in unity using physics and lighting.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ld6oBp3lHng)
 
 # Development Environment
 
@@ -15,7 +15,6 @@ This was created using mainly C# and the Unity platform.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * Huge Thank you to Coding in Flow https://www.youtube.com/watch?v=n0GQL5JgJcY
 
 # Future Work
